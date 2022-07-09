@@ -16,3 +16,6 @@ Comparison of ways to check if a value is an integer.
 ```luau
 local isInteger = number % 1 == 0
 ```
+
+## Results
+![Results](results.png "Results as of 2022-07-09")
